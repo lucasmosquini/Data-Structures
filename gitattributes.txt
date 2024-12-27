@@ -12,3 +12,4 @@
 *.log export-ignore
 debug/ export-ignore
 
+*.rar linguist-language=C
