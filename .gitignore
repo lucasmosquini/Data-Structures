@@ -1,0 +1,46 @@
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.suo
+*.user
+*.sln.docstates
+~$*
+
+# Arquivos de cache
+*.cache
+*.bak
+
+# Arquivos de pastas do Windows
+System Volume Information/
+
+# Configurações do Explorer
+.DS_Store
+
+# Logs do Windows
+*.etl
+
+# Arquivos gerados pelo cmd ou powershell
+*.ps1~   # Scripts temporários no Powershell
+*.bat~   # Scripts temporários de lote
+
+# Evitar binários de compilação se forem criados
+*.exe
+*.dll
+
+# Evitar atalhos no Explorer - .aliases.links expand others	
+.symlink 
+
+# Evitar incluir alguma cripot senha 
+tempFiles .Don't leak noqa.logger + --
+   
+
+
+
+
